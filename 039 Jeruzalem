@@ -2,7 +2,7 @@
 <song>
   <title>Jeruzalem</title>
   <hymn_number>39</hymn_number>
-  <presentation>V1 C V2 C V3 P</presentation>
+  <presentation>V1 C1 V2 C2 V3 C3</presentation>
   <lyrics>[V1]
  Raz v jednej zvláštnej noci
  sen krásny prežil som,
@@ -14,7 +14,7 @@
  hneď k nim sa pridali,
  a anjelské tiež chóry
  hneď k nim sa pridali.
-[C]
+[C1]
  Jeruzalem, Jeruzalem,
  nech hlaholí spev chvál:
  Hosana na výsostiach, hosana!
@@ -31,6 +31,11 @@
  už k nebu vztyčovať,
  to kríža tieň sa začínal
  už k nebu vztyčovať.
+[C2]
+ Jeruzalem, Jeruzalem,
+ čuj, anjelský spev znie:
+ Hosana na výsostiach, hosana,
+ hľa, tvoj Kráľ!
 [V3]
  A ešte raz sa zmenil sen,
  ja vidím novú zem
@@ -39,18 +44,18 @@
  Je Božia žiara v uliciach
  a brány dokorán!
  Sem každý smie, kto príde,
- hneď privíta ho Pán.
-[P]
+ hneď privíta ho Pán.||
  Tu noc už nikdy nebude,
  deň v jase nádhernom!
  To je nový Jeruzalem
  a sláva Božia v ňom!
  To je nový Jeruzalem
- a sláva Božia v ňom!||
+ a sláva Božia v ňom!
+[C3]
  Jeruzalem, Jeruzalem,
  zmizla už desná tma.
  Hosana na výsostiach!
  Hosana až na veky,
  hosana na výsostiach,
- hosana až na veky. </lyrics>
+ hosana až na veky.</lyrics>
 </song>
